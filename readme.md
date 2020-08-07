@@ -7,9 +7,10 @@ new Composition API. Developed on Twitch https://twitch.tv/DerAlbertLive
 
 # Run
 
-restored packages
+restore packages
 
 `npm ci` 
 
 run Vite dev Server (https://github.com/vitejs/vite)
+
 `npm run dev` 

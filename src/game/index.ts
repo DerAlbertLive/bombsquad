@@ -166,6 +166,6 @@ function useGame(game: Game) {
 
 export {
     createGame,
-    Lot as Bomb,
+    Bomb,
     useGame
 }
