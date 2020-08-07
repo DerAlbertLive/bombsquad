@@ -17,7 +17,7 @@ export default defineComponent({
     Game
   },
   setup() {
-    const game = reactive(createGame(10))
+    const game = reactive(createGame(10, 20))
     return {
       game
     }
